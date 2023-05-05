@@ -1,3 +1,3 @@
-# SWP_midterm_coursework
+# midterm datamining
 
 413 Coursework
